@@ -1,18 +1,29 @@
-## Getting Started
+# Frequency Modulator Synthesizer
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/diegorr/)
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
-## Folder Structure
+### Project Preview
+<img src="Showcase/Showcase.png" width="900">
 
-The workspace contains two folders by default, where:
+## Features 
+⚡️ Multiple oscillator soundwave generation
+⚡️ Wave plotting
+⚡️ Various waveforms
+⚡️ Custom audiofile sampler
+⚡️ ADSR Filter
+⚡️ Phaser filter
+⚡️ MIDI Controller friendly
+⚡️ Multiple oscillator soundwave generation
+⚡️ Save and load custom made presets
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Installation & Deployment 📦
+- Clone the repository
+- Build with Java 14 or newer, and JDK 20 or newer
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## License
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+- **[MIT license](http://opensource.org/licenses/mit-license.php)**
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+NOTE: All images used in this project are copyright-free and available for non-commercial use
